@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9520630313",
+    "project_id": "up-keep-car-care",
+    "storage_bucket": "up-keep-car-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9520630313:android:26e81e4d9580b7238aea38",
+        "android_client_info": {
+          "package_name": "com.upkeep.carcare.com.upkeepapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9520630313-d04nm3pkkmmnrgcjunoii6co54jvnd4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlo_Ng3sg1-rXUya-uAWDsNuCVx2CuUvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9520630313-d04nm3pkkmmnrgcjunoii6co54jvnd4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
